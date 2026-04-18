@@ -1,19 +1,76 @@
-<h1 align="center">Hi 👋, I'm Everson Oliveira</h1>
-<h3 align="center">A .NET Developer from Brazil!</h3>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=schwnz0&label=Profile%20views&color=5900b3&style=flat" alt="schwnz0" /> </p>
+###
 
-- ​🚀 What I'm Building Right Now **​My focus is on developing software that serves as a bridge between technical execution and business goals. ​Course Capstone Project: Currently architecting a robust solution designed to address and solve critical pain points for companies. ​RESTful APIs: Building secure and well-documented services using ASP.NET Core, JWT, and Swagger. ​Technical Excellence: Deepening my expertise in Object-Oriented Programming (OOP) and efficient data manipulation with LINQ.**
+<div align="center">
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZoOHpraGV6azdsOXY5bGd4NHozOWNwOWU3dzhhd2VvOHU0Nms4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zgzISaYrnMAYRJJEr/giphy.gif"  />
+</div>
 
-- 📫 Let's Connect! **​I deeply value communication and collaboration. If you enjoy discussing the .NET ecosystem, career transitions, or innovative projects that solve real-world problems, feel free to reach out via email or one of my linked social medias: ​Email: everson.dev11@hotmail.com**
+###
 
-- 📄 Know about my experiences [https://schwnz0resume.short.gy/my-resume](https://schwnz0resume.short.gy/my-resume)
+<h1 align="center">hey there 👋</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/everson-oliveira-8974aa2aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="everson-oliveira-8974aa2aa" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/MwKrBHvq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/MwKrBHvq" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">​I am a results-driven professional transitioning from a background in Inside Sales and Consultative Prospecting into Software Development. My mission is to build intelligent solutions that bridge the gap between complex business challenges and efficient technical execution.  <br>​Currently, I am an intensive student at the Entra21 program, undergoing 320 hours of specialized training in the .NET ecosystem.<br><br>​🚀 What I'm Building Right Now<br>​My focus is on developing software that serves as a bridge between technical execution and business goals.  <br>​Course Capstone Project: Currently architecting a robust solution designed to address and solve critical pain points for companies.  <br>​RESTful APIs: Building secure and well-documented services using ASP.NET Core, JWT, and Swagger.  <br>​Technical Excellence: Deepening my expertise in Object-Oriented Programming (OOP) and efficient data manipulation with LINQ.<br><br>​📫 Let's Connect!<br>​I deeply value communication and collaboration. If you enjoy discussing the .NET ecosystem, career transitions, or innovative projects that solve real-world problems, feel free to reach out via email or one of my linked social medias:<br>​Email: everson.dev11@hotmail.com</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/everson-oliveira-8974aa2aa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/MwKrBHvq" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+</div>
+
+###
