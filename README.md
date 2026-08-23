@@ -1,72 +1,363 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
-</div>
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Everson%20Oliveira&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20.NET%20%7C%20QA&descSize=18&descAlignY=55&theme=tokyonight" width="100%"/>
+
+</div>
 
 <div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZoOHpraGV6azdsOXY5bGd4NHozOWNwOWU3dzhhd2VvOHU0Nms4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zgzISaYrnMAYRJJEr/giphy.gif"  />
+
+# 👋 Olá! Eu sou o Everson Oliveira
+
+### Full-Stack Developer | .NET
+
+Desenvolvedor em formação, com foco no ecossistema **C#/.NET**, desenvolvimento de **APIs REST**, bancos de dados e qualidade de software.
+
+Atualmente, estou aprofundando meus conhecimentos através do **Entra21**, com formação intensiva de 320 horas voltada ao desenvolvimento de software e ao ecossistema .NET.
+
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+## 👨‍💻 Sobre mim
 
-###
+Minha trajetória profissional começou na área de **Inside Sales e SDR**, experiência que me proporcionou uma forte base em comunicação, análise de necessidades, negociação e resolução de problemas.
 
-<h3 align="left">👩‍💻  About Me</h3>
+Hoje estou direcionando essa experiência para o desenvolvimento de software, buscando unir **visão de negócio, pensamento analítico e execução técnica** para construir soluções eficientes e bem estruturadas.
 
-###
+Meu principal foco atualmente é o desenvolvimento com **C# e .NET**, especialmente na construção de APIs e aplicações web.
 
-<p align="left">​I am a results-driven professional transitioning from a background in Inside Sales and Consultative Prospecting into Software Development. My mission is to build intelligent solutions that bridge the gap between complex business challenges and efficient technical execution.  <br>​Currently, I am an intensive student at the Entra21 program, undergoing 320 hours of specialized training in the .NET ecosystem.<br><br>​🚀 What I'm Building Right Now<br>​My focus is on developing software that serves as a bridge between technical execution and business goals.  <br>​Course Capstone Project: Currently architecting a robust solution designed to address and solve critical pain points for companies.  <br>​RESTful APIs: Building secure and well-documented services using ASP.NET Core, JWT, and Swagger.  <br>​Technical Excellence: Deepening my expertise in Object-Oriented Programming (OOP) and efficient data manipulation with LINQ.<br><br>​📫 Let's Connect!<br>​I deeply value communication and collaboration. If you enjoy discussing the .NET ecosystem, career transitions, or innovative projects that solve real-world problems, feel free to reach out via email or one of my linked social medias:<br>​Email: everson.dev11@hotmail.com</p>
+### 🚀 Atualmente focado em
 
-###
+* Desenvolvimento de APIs REST com **ASP.NET Core**
+* Desenvolvimento web com **ASP.NET Core MVC e Razor Pages**
+* Programação Orientada a Objetos com **C#**
+* **Entity Framework Core**
+* **SQL Server e MySQL**
+* Autenticação e autorização utilizando **JWT**
+* Documentação de APIs com **Swagger/OpenAPI**
+* Arquitetura de software e separação de responsabilidades
+* **Clean Architecture**
+* **SOLID e Clean Code**
+* Testes
+* Controle de versão com **Git e GitHub**
+* Containerização com **Docker**
+
+---
+
+# 🛠️ Tecnologias & Conhecimentos
+
+## 💻 Linguagens & Frameworks
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/everson-oliveira-8974aa2aa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.gg/vq5pYDMwem" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+<img width="12" />
+
+<img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt=".NET" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+
 </div>
 
-###
+**Conhecimentos:**
 
-<h3 align="left">🛠 Language and tools</h3>
+* C#
+* .NET 8
+* ASP.NET Core
+* ASP.NET Core MVC
+* ASP.NET Core Web API
+* Razor Pages
+* JavaScript ES6+
+* HTML5
+* CSS3
 
-###
+---
+
+## 🗄️ Bancos de Dados
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
+
 </div>
 
-###
+**Conhecimentos:**
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+* SQL Server
+* MySQL
+* T-SQL / SQL
+* Consultas e Joins
+* DDL / DML
+* Modelagem Relacional
+* Entity Framework Core
+* Migrations
+* DBeaver
+* SQL Server Management Studio (SSMS)
+
+---
+
+## 🏗️ Conceitos & Arquitetura
+
+* Programação Orientada a Objetos (POO)
+* Princípios SOLID
+* Clean Code
+* Clean Architecture
+* Arquitetura MVC
+* Arquitetura em Camadas
+* Separação de Responsabilidades
+* Injeção de Dependência
+* DTOs
+* Repository Pattern
+* LINQ
+* Async/Await
+* Tratamento de Exceções
+* Validação de dados
+* Modularização de aplicações
+
+---
+
+## 🌐 APIs & Desenvolvimento Web
+
+<div align="left">
+
+<img src="https://cdn.simpleicons.org/swagger/85EA2D" height="40" alt="Swagger" />
+<img width="12" />
+
+<img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman" />
+<img width="12" />
+
+<img src="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF" height="40" alt="JWT" />
+
 </div>
 
-###
+**Conhecimentos:**
+
+* APIs REST
+* HTTP / HTTPS
+* HTTP Methods
+* Status Codes
+* JSON
+* JWT Authentication
+* Autorização
+* Swagger / OpenAPI
+* Postman
+* CRUD
+* Consumo de APIs
+* Model Binding
+* Dependency Injection
+
+---
+
+## 🧪 Testes & Quality Assurance
+
+Tenho interesse especial em **qualidade de software**, buscando entender não apenas como construir uma aplicação, mas também como validar seu comportamento.
+
+**Conhecimentos:**
+
+* Quality Assurance (QA)
+* Testes funcionais
+* Testes de API
+* Testes de integração
+* Validação de endpoints
+* Testes de cenários positivos e negativos
+* Identificação e documentação de bugs
+* Postman
+* Boas práticas de validação de software
+
+---
+
+## 🛠️ Ferramentas & DevOps
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+
+</div>
+
+**Ferramentas:**
+
+* Git
+* GitHub
+* Branching
+* Pull Requests
+* Code Review
+* Git Flow
+* Docker
+* Azure
+* Visual Studio
+* Visual Studio Code
+* NuGet
+* DBeaver
+* SSMS
+* Postman
+
+---
+
+## 📋 Metodologias
+
+* Scrum
+* Kanban
+* Trabalho em equipe
+* Controle de tarefas
+* Pull Requests
+* Code Review
+* Versionamento de código
+* Desenvolvimento colaborativo
+
+---
+
+# 📌 Projetos em destaque
+
+## 🏢 Funcionários API
+
+API REST desenvolvida com **ASP.NET Core 8** para gerenciamento de funcionários.
+
+O projeto foi desenvolvido como uma **avaliação prática acadêmica**, com o objetivo de aplicar conceitos de desenvolvimento de APIs, arquitetura, autenticação, persistência de dados e documentação.
+
+### 🔧 Tecnologias utilizadas
+
+* C#
+* .NET 8
+* ASP.NET Core Web API
+* Entity Framework Core
+* MySQL
+* JWT
+* Swagger/OpenAPI
+* Clean Architecture
+* REST
+* CRUD
+
+### 🎯 Principais funcionalidades
+
+* Cadastro de funcionários
+* Consulta de funcionários
+* Atualização de funcionários
+* Exclusão de funcionários
+* Autenticação utilizando JWT
+* Documentação da API através do Swagger
+* Persistência de dados utilizando Entity Framework Core
+
+> ⚠️ **Projeto acadêmico:** desenvolvido exclusivamente para fins de avaliação prática e aprendizado. O projeto não possui finalidade comercial.
+
+🔗 **Repositório:**
+https://github.com/schwnz0/FuncionariosApi
+
+---
+
+# 🎯 O que estou estudando
+
+```text
+C# / .NET
+├── C#
+├── .NET 8
+├── ASP.NET Core
+├── ASP.NET Core Web API
+├── MVC
+└── Razor Pages
+
+Arquitetura
+├── Clean Architecture
+├── SOLID
+├── Clean Code
+├── Design Patterns
+├── DTOs
+└── Dependency Injection
+
+Dados
+├── SQL Server
+├── MySQL
+├── Entity Framework Core
+├── LINQ
+└── Modelagem Relacional
+
+APIs
+├── REST
+├── JWT
+├── Swagger / OpenAPI
+├── Postman
+└── HTTP
+
+Qualidade
+├── QA
+├── Testes de API
+├── Testes Funcionais
+└── Testes de Integração
+
+DevOps
+├── Git
+├── GitHub
+├── Docker
+└── Azure
+```
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=schwnz0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schwnz0&layout=compact&langs_count=8&theme=tokyonight" height="170"/>
+
+</div>
+
+---
+
+# 📫 Vamos conversar?
+
+Estou aberto a oportunidades, networking e conversas sobre **desenvolvimento de software, .NET, APIs, QA e tecnologia**.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/everson-oliveira-dev11/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:everson.dev11@hotmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://discord.gg/vq5pYDMwem" target="_blank">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Building solutions. Learning every day.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=tokyonight" width="100%"/>
+
+</div>
