@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Everson%20Oliveira&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20.NET%20%7C%20QA&descSize=18&descAlignY=55&theme=tokyonight" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Everson%20Oliveira&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20.NET%20%&descSize=18&descAlignY=55&theme=tokyonight" width="100%"/>
 
 </div>
 
@@ -231,104 +231,6 @@ Tenho interesse especial em **qualidade de software**, buscando entender não ap
 * Code Review
 * Versionamento de código
 * Desenvolvimento colaborativo
-
----
-
-# 📌 Projetos em destaque
-
-## 🏢 Funcionários API
-
-API REST desenvolvida com **ASP.NET Core 8** para gerenciamento de funcionários.
-
-O projeto foi desenvolvido como uma **avaliação prática acadêmica**, com o objetivo de aplicar conceitos de desenvolvimento de APIs, arquitetura, autenticação, persistência de dados e documentação.
-
-### 🔧 Tecnologias utilizadas
-
-* C#
-* .NET 8
-* ASP.NET Core Web API
-* Entity Framework Core
-* MySQL
-* JWT
-* Swagger/OpenAPI
-* Clean Architecture
-* REST
-* CRUD
-
-### 🎯 Principais funcionalidades
-
-* Cadastro de funcionários
-* Consulta de funcionários
-* Atualização de funcionários
-* Exclusão de funcionários
-* Autenticação utilizando JWT
-* Documentação da API através do Swagger
-* Persistência de dados utilizando Entity Framework Core
-
-> ⚠️ **Projeto acadêmico:** desenvolvido exclusivamente para fins de avaliação prática e aprendizado. O projeto não possui finalidade comercial.
-
-🔗 **Repositório:**
-https://github.com/schwnz0/FuncionariosApi
-
----
-
-# 🎯 O que estou estudando
-
-```text
-C# / .NET
-├── C#
-├── .NET 8
-├── ASP.NET Core
-├── ASP.NET Core Web API
-├── MVC
-└── Razor Pages
-
-Arquitetura
-├── Clean Architecture
-├── SOLID
-├── Clean Code
-├── Design Patterns
-├── DTOs
-└── Dependency Injection
-
-Dados
-├── SQL Server
-├── MySQL
-├── Entity Framework Core
-├── LINQ
-└── Modelagem Relacional
-
-APIs
-├── REST
-├── JWT
-├── Swagger / OpenAPI
-├── Postman
-└── HTTP
-
-Qualidade
-├── QA
-├── Testes de API
-├── Testes Funcionais
-└── Testes de Integração
-
-DevOps
-├── Git
-├── GitHub
-├── Docker
-└── Azure
-```
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=schwnz0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schwnz0&layout=compact&langs_count=8&theme=tokyonight" height="170"/>
-
-</div>
 
 ---
 
