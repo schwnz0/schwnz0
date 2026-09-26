@@ -38,7 +38,7 @@ Em transição de carreira, formado pelo programa <b>Entra21</b> (Blusoft/ACATE/
 ### 🛠️ Em destaque
 
 **[No Prumo](#)** —  SaaS para pequenas e médias empreiteiras/construtoras, projeto de conclusão de curso desenvolvido no Entra21.
-- Dashboard, gestão de obras/materiais, módulo financeiro e gerador de orçamentos com envio por PDF/WhatsApp
+- Dashboard, gestão de obras/materiais/EPIs, módulo financeiro, gestão de funcionários e dashboard para clientes.
 - Backend em C# / .NET / MySQL
 - Atualmente em estágio de MVP
 
