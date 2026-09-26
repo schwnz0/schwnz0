@@ -44,13 +44,4 @@ Em transição de carreira, formado pelo programa <b>Entra21</b> (Blusoft/ACATE/
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=schwnzo&show_icons=true&theme=radical&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schwnzo&layout=compact&theme=radical"/>
-</p>
-
----
-
 <p align="center">💬 Aberto a oportunidades como Dev C#/.NET Júnior na região de Blumenau/SC</p>
